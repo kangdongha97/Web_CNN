@@ -1,2 +1,3 @@
 # Web_CNN 
-Python Ai, Web
+- Python Ai
+- Web
